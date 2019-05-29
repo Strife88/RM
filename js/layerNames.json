@@ -1,0 +1,42 @@
+var LayerNamesFromSketch = [
+    {
+      NormalState: 'HeaderElementNormal1 150x56',
+      HoverState: 'HeaderElementHover1 150x56',
+    },
+    {
+      NormalState: 'HeaderElementNormal2 110x56',
+      HoverState: 'HeaderElementHover9 111x56',
+    },
+    {
+      NormalState: 'HeaderElementNormal3 141x56',
+      HoverState: 'HeaderElementHover8 144x56',
+    },
+    {
+      NormalState: 'HeaderElementNormal4 134x56',
+      HoverState: 'HeaderElementHover7 150x56',
+    },
+    {
+      NormalState: 'HeaderElementNormal5 235x56',
+      HoverState: 'HeaderElementHover6 245x56',
+    },
+    {
+      NormalState: 'HeaderElementNormal6 245x56',
+      HoverState: 'HeaderElementHover5 235x56',
+    },
+    {
+      NormalState: 'HeaderElementNormal7 150x56',
+      HoverState: 'HeaderElementHover4 134x56',
+    },
+    {
+      NormalState: 'HeaderElementNormal8 144x56',
+      HoverState: 'HeaderElementHover3 141x56',
+    },
+    {
+      NormalState: 'HeaderElementNormal9 111x56',
+      HoverState: 'HeaderElementHover2 110x56',
+    },
+    {
+      NormalState: 'HeaderElementNormal10 221x56',
+      HoverState: 'HeaderElementHover10 221x56',
+    },
+  ]

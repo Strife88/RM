@@ -1,0 +1,101 @@
+* {
+margin:0px;
+}
+
+.image {
+    z-index: -1;
+    position: absolute;
+    width: 1920px;
+    height: 2355px;
+    background: url(/src/MainPage.png);
+    top:0px;
+}
+.MenuElemet {
+    display: inline-block;
+    width: 100px;
+    height: 56px;
+    background: url(/src/HeaderMenuItems/HeaderElementNormal1.png);
+}
+.MenuElementImage1:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover1.png);    
+}
+.MenuElementImage1 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal1.png);
+}
+.MenuElementImage2:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover2.png);    
+}
+.MenuElementImage2 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal2.png);
+}
+.MenuElementImage3:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover3.png);    
+}
+.MenuElementImage3 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal3.png);
+}
+.MenuElementImage4:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover4.png);    
+}
+.MenuElementImage4 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal4.png);
+}
+.MenuElementImage5:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover5.png);    
+}
+.MenuElementImage5 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal5.png);
+}
+.MenuElementImage6:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover6.png);    
+}
+.MenuElementImage6 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal6.png);
+}
+.MenuElementImage7:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover7.png);    
+}
+.MenuElementImage7 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal7.png);
+}
+.MenuElementImage8:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover8.png);    
+}
+.MenuElementImage8 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal8.png);
+}
+.MenuElementImage9:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover9.png);    
+}
+.MenuElementImage9 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal9.png);
+}
+.MenuElementImage10:hover {
+    background: url(/src/HeaderMenuItems/HeaderElementHover10.png);    
+}
+.MenuElementImage10 {
+    background: url(/src/HeaderMenuItems/HeaderElementNormal10.png);
+}
+
+
+
+.MenuGroup {
+    padding-left: 28px;
+    white-space: nowrap;
+}
+
+.MenuElemet:last-child {
+    margin-left: 250px;
+}    
+
+.HeaderDropDownMenu {
+    width: 350px;
+    position: absolute;
+    top:56px;
+    left:178px;
+    background: url(/src/HeaderMenuItems/MainPageDropDown1.png);
+    box-shadow: 0 15px 25px 0 rgba(0,0,0,0.15), 0 5px 10px 0 rgba(0,0,0,0.05);
+}
+.HeaderDropDownMenuActive {
+    
+}
