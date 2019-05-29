@@ -95,7 +95,7 @@ for(i=1;i<11;i++){
  createTag('div','MenuElemet','MenuElementImage'+i,'MenuGroup','item-'+i);
     var currentSelector = document.getElementById("item-"+i);
 //addImage based on iterator
-//    currentSelector.style.background = "url('../src/HeaderMenuItems/HeaderElementNormal"+ i +".png')";
+//    currentSelector.style.background = "url('https://strife88.github.io/RM/src/HeaderMenuItems/HeaderElementNormal"+ i +".png')";
 //addWidthOfImageBasedOnDATA
     currentSelector.style.width = WidthArray[i-1]+"px";
 
@@ -114,11 +114,11 @@ for(i=1;i<10;i++){
  createTag('div','HeaderDropDownMenu',"",'HeaderDropDownGroup','DropDownItem-'+i);
     var currentSelector = document.getElementById("DropDownItem-"+i);
 //addImage based on iterator
-//    currentSelector.style.background = "url('../src/HeaderMenuItems/HeaderElementNormal"+ i +".png')";
+//    currentSelector.style.background = "url('https://strife88.github.io/RM/src/HeaderMenuItems/HeaderElementNormal"+ i +".png')";
 //addWidthOfImageBasedOnDATA
     currentSelector.style.height = "0px";
     currentSelector.style.left = DropDownPosArray[i-1]+"px";
-    currentSelector.style.background = "url('../src/HeaderMenuItems/MainPageDropDown"+ i +".png')";
+    currentSelector.style.background = "url('https://strife88.github.io/RM/src/HeaderMenuItems/MainPageDropDown"+ i +".png')";
 }
 
 
@@ -175,7 +175,7 @@ HeaderDropDownAction();
 //    createTag('div','row','column','row-'+i);
 //    var currentSelector = document.getElementById("row-"+i);
 ////addImage based on iterator
-//    currentSelector.style.background = "url('../images/Card-"+imageRes+"-Normal-"+ i +".png')";
+//    currentSelector.style.background = "url('https://strife88.github.io/RM/images/Card-"+imageRes+"-Normal-"+ i +".png')";
 //}
 //}
 //
@@ -189,10 +189,10 @@ HeaderDropDownAction();
 //btns[i].addEventListener("click", function() {
 //  this.classList.toggle("active");
 //    if(this.classList == "row active"){
-//    this.style.background = "url('../images/Card-"+imageRes+"-Expanded-"+ this.getAttribute("id").slice(-1) +".png')";
+//    this.style.background = "url('https://strife88.github.io/RM/images/Card-"+imageRes+"-Expanded-"+ this.getAttribute("id").slice(-1) +".png')";
 //    }
 //    else {
-//    this.style.background = "url('../images/Card-"+imageRes+"-Normal-"+ this.getAttribute("id").slice(-1) +".png')";    
+//    this.style.background = "url('https://strife88.github.io/RM/images/Card-"+imageRes+"-Normal-"+ this.getAttribute("id").slice(-1) +".png')";    
 //}
 //}
 //)
@@ -229,7 +229,7 @@ HeaderDropDownAction();
 //    createTag('div','row','column','row-'+i);
 //    var currentSelector = document.getElementById("row-"+i);
 ////addImage based on iterator
-//    currentSelector.style.background = "url('../images/Card-"+imageRes+"-Normal-"+ i +".png')";
+//    currentSelector.style.background = "url('https://strife88.github.io/RM/images/Card-"+imageRes+"-Normal-"+ i +".png')";
 //}
 //}
 
@@ -243,10 +243,10 @@ HeaderDropDownAction();
 //btns[i].addEventListener("click", function() {
 //  this.classList.toggle("active");
 //    if(this.classList == "row active"){
-//    this.style.background = "url('../images/Card-"+imageRes+"-Expanded-"+ this.getAttribute("id").slice(-1) +".png')";
+//    this.style.background = "url('https://strife88.github.io/RM/images/Card-"+imageRes+"-Expanded-"+ this.getAttribute("id").slice(-1) +".png')";
 //    }
 //    else {
-//    this.style.background = "url('../images/Card-"+imageRes+"-Normal-"+ this.getAttribute("id").slice(-1) +".png')";    
+//    this.style.background = "url('https://strife88.github.io/RM/images/Card-"+imageRes+"-Normal-"+ this.getAttribute("id").slice(-1) +".png')";    
 //}
 //}
 //)
