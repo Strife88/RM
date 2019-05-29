@@ -14,7 +14,7 @@ margin:0px;
     display: inline-block;
     width: 100px;
     height: 56px;
-    background: url(/src/HeaderMenuItems/HeaderElementNormal1.png);
+    background: url(https://strife88.github.io/RM/src/MainPage.png);
 }
 .MenuElementImage1:hover {
     background: url(/src/HeaderMenuItems/HeaderElementHover1.png);    
