@@ -7,14 +7,13 @@ margin:0px;
     position: absolute;
     width: 1920px;
     height: 2355px;
-    background: url(/src/MainPage.png);
+    background: url(https://strife88.github.io/RM/src/MainPage.png);
     top:0px;
 }
 .MenuElemet {
     display: inline-block;
     width: 100px;
     height: 56px;
-    background: url(https://strife88.github.io/RM/src/MainPage.png);
 }
 .MenuElementImage1:hover {
     background: url(/src/HeaderMenuItems/HeaderElementHover1.png);    
